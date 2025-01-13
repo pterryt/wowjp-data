@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="en" target-language="ja" datatype="plaintext" original="file.po">
+    <body>
+      <!-- Quest 1 -->
+      <trans-unit id="quest_1.title">
+        <source>Title of Quest 1</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="quest_1.description">
+        <source>Description of Quest 1</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="quest_1.rewardtext">
+        <source>Reward Text for Quest 1</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="quest_1.objectivetext">
+        <source>Objective Text for Quest 1</source>
+        <target></target>
+      </trans-unit>
+
+      <!-- Quest 2 -->
+      <trans-unit id="quest_2.title">
+        <source>Title of Quest 2</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="quest_2.description">
+        <source>Description of Quest 2</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="quest_2.rewardtext">
+        <source>Reward Text for Quest 2</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="quest_2.objectivetext">
+        <source>Objective Text for Quest 2</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
