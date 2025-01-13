@@ -6,7 +6,7 @@
       <trans-unit id="quest_1.title">
         <source>Title of Quest 1</source>
         <target></target>
-        <note>This is the title of the first quest in the game.</note>
+        <note>This is the title of the first quest in the game. https://wotlk.evowow.com/?quest=12791 </note>
       </trans-unit>
       <trans-unit id="quest_1.description">
         <source>Description of Quest 1</source>
